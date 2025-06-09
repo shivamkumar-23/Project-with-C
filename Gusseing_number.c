@@ -35,6 +35,12 @@ int main() {
         
         
     } while (guess != random);
+
+    /* If we are talking about the development in this project there is a new thing which i add is
+    coloring of text mean when the printf command execute the terminal print what we wanna print
+    but the text color is white so I play with the code and generated color text.*/
+    /*If you wanna now i do the coloring of text simply comment over the Repository or contact me on
+    linkedin : www.linkedin.com/in/shivamsahu2004*/
     
     return 0;
 }
